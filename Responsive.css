@@ -1,0 +1,17 @@
+﻿body {
+}
+@media screen and (max-width: 600px) {
+    li a {
+        float: none;
+        width: 100%;
+    }
+
+    #imgForm {
+        display: none;
+    }
+
+    form {
+        width: 100%;
+    }
+}
+
